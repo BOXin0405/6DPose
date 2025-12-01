@@ -15,7 +15,7 @@
 <!-- 
 <img src="/show_vis/VID_20251011_215403.gif" width=100%>
 <img src="/show_vis/VID_20251011_215255.gif" width=100%> -->
-
+## Project Link: github.com/WangYuLin-SEU/HCCEPose
 ## 🧩 Introduction
 **HccePose(BF)** introduces a **Hierarchical Continuous Coordinate Encoding (HCCE)** mechanism that encodes the three coordinate components of object surface points into hierarchical continuous codes. Through this hierarchical encoding scheme, the neural network can effectively learn the correspondence between 2D image features and 3D surface coordinates of the object, while significantly enhancing its capability to learn accurate object masks. Unlike traditional methods that only learn the visible front surface of objects, **HccePose(BF)** additionally learns the 3D coordinates of the back surface, thereby establishing denser 2D–3D correspondences and substantially improving pose estimation accuracy.
 
