@@ -17,7 +17,7 @@
 <img src="/show_vis/VID_20251011_215255.gif" width=100%> -->
 
 
-## 🚀 项目链接 github.com/WangYuLin-SEU/HCCEPose(https://github.com/WangYuLin-SEU/HCCEPose)
+## 🚀 项目链接 [github.com/WangYuLin-SEU/HCCEPose](https://github.com/WangYuLin-SEU/HCCEPose)
 ## 🧩 简介  
 HccePose(BF) 提出了一种 **层次化连续坐标编码（Hierarchical Continuous Coordinate Encoding, HCCE）** 机制，将物体表面点的三个坐标分量分别编码为层次化的连续代码。通过这种层次化的编码方式，神经网络能够有效学习 2D 图像特征与物体 3D 表面坐标之间的对应关系，也显著增强了网络对物体掩膜的学习能力。与传统方法仅学习物体可见正表面不同，**HccePose(BF)** 还学习了物体背表面的 3D 坐标，从而建立了更稠密的 2D–3D 对应关系，显著提升了位姿估计精度。
 
